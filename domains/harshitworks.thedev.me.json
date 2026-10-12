@@ -1,0 +1,11 @@
+{
+  "subdomain": "harshitworks",
+  "domain": "thedev.me",
+  "email_or_discord": "shahharshit226@gmail.com",
+  "github_username": "shahharshit226-glitch",
+  "description": "I am opening an agency kind of website which provide services to businesses and individual persons",
+  "records": {
+    "A": ["192.0.2.1"]
+  },
+  "proxied": true
+}
